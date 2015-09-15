@@ -1,0 +1,21 @@
+1. utworz plik index.php
+	dopisz do niego kod:
+	<?php
+	info()
+	?>
+	
+2. Utworz plik styl.css
+dopisz do niegoL
+P {font-size: 20px}
+
+3. Sciaganij dowolny plik typu jpg z Internetu i zapisz do swojego katlogu
+
+Wykonaj commita z opisem "Poczatek pracy"
+
+Wyslij pliki do repozytorium na serwerze github
+
+Sciagnij ewentualna aktualizacje plikow z serwera GIT
+
+dodaj plik readme.txt
+Wykonaj commita ze zmiana i wyslij go na serwera
+cofnij sie do zmianay poczatek pracy i zapsz ja jako nowa galzaz pod nazwa kopia
